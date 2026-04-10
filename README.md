@@ -1,0 +1,2 @@
+如何部署？
+fork本仓库，cloudflare控制台连接github仓库部署即可，建议绑定自定义域名
